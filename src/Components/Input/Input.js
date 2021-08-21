@@ -37,7 +37,7 @@ class Input extends React.Component {
                 name: this.state.name,
                 image: this.state.imageUrl
                 })
-            })
+            });
         }
         
     }
