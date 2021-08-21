@@ -1,0 +1,25 @@
+.imgg {
+    font-size: 50px;
+    letter-spacing: 3px;
+    transition: all 1s;
+}
+
+.imgg {
+    transform: scale(0.9);
+}
+
+.custom-border {
+    border-color: black;
+}
+
+
+.custom-input {
+    border: 2px solid red;
+    border-radius: 300px;
+}
+
+.custom-input:hover {
+    background-color: black;
+    color: white;
+}
+
