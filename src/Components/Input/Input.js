@@ -54,6 +54,8 @@ class Input extends React.Component {
                 description: this.state.description
                 })
             });
+
+            console.log(this.state)
         }
         
     }

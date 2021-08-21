@@ -8,7 +8,7 @@ const  Image = (props) => {
             <img style={{width: '400px', height: 'auto'}} alt="" src={props.image}/>
             <div>
                 <p>Image By: {props.name}</p>
-                <p>Image Description {props.description}:</p>
+                <p>Image Description: {props.description}</p>
                 <p>Image Credits: {props.credits}</p>
             </div>
         </div>
