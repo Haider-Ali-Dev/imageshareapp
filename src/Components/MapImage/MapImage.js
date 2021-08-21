@@ -11,7 +11,7 @@ class ImageSuper extends React.Component {
                 <h1 style={{letterSpacing: '3px', fontSize: '50px'}} className="tc">Gallery</h1>
                 {
                     data.map((item, index) => {
-                        return <Image name={item.name} image={item.image}/>
+                        return <Image name={item.name} image={item.image} credits={item.credits} description={item.description}/>
                     })
                 }
             </div>
