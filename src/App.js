@@ -15,7 +15,7 @@ class App extends Component {
 }
 
   componentDidMount() {
-    fetch('http://tranquil-lowlands-55499.herokuapp.com/')
+    fetch('https://tranquil-lowlands-55499.herokuapp.com/')
       .then(data => data.json())
       .then(res => this.setState({data: res}))
     console.log(this.state.data)
