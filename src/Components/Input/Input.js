@@ -8,8 +8,8 @@ class Input extends React.Component {
         this.state = {
             name: '',
             imageUrl: '',
-            credits: '',
-            description: ''
+            credits: 'No credits for this post',
+            description: 'No description provided'
         }
         this.onChangeName = this.onChangeName.bind(this)
         this.onChangeImageUrl = this.onChangeImageUrl.bind(this)
