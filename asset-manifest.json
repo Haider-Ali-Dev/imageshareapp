@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/imageshareapp/static/css/main.d2d98e54.chunk.css",
+    "main.js": "/imageshareapp/static/js/main.c8f2374e.chunk.js",
+    "main.js.map": "/imageshareapp/static/js/main.c8f2374e.chunk.js.map",
+    "runtime-main.js": "/imageshareapp/static/js/runtime-main.418729d5.js",
+    "runtime-main.js.map": "/imageshareapp/static/js/runtime-main.418729d5.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/imageshareapp/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.5e17a517.chunk.js": "/imageshareapp/static/js/2.5e17a517.chunk.js",
+    "static/js/2.5e17a517.chunk.js.map": "/imageshareapp/static/js/2.5e17a517.chunk.js.map",
+    "static/js/3.958313cd.chunk.js": "/imageshareapp/static/js/3.958313cd.chunk.js",
+    "static/js/3.958313cd.chunk.js.map": "/imageshareapp/static/js/3.958313cd.chunk.js.map",
+    "index.html": "/imageshareapp/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/imageshareapp/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.d2d98e54.chunk.css.map": "/imageshareapp/static/css/main.d2d98e54.chunk.css.map",
+    "static/js/2.5e17a517.chunk.js.LICENSE.txt": "/imageshareapp/static/js/2.5e17a517.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.418729d5.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.5e17a517.chunk.js",
+    "static/css/main.d2d98e54.chunk.css",
+    "static/js/main.c8f2374e.chunk.js"
+  ]
+}
